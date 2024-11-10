@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image:url('img/1297122.jpg') ;
+}
+
+
+/* tabel kasir */
+.card-kasir{
+    margin-top: 12rem;
+}
+
+/* // tabel-transaksi */
+.table-responsive{
+    backdrop-filter: blur(10px);
+    background: transparent;
+}
+
+.row-transaksi {
+    height: 100vh;
+}
+
+.table-header{
+    margin-top: 10rem;
+}
+
+.bg-transparent{
+    backdrop-filter: blur(18px);
+}
+
+.form-label{
+font-size: 1.08rem;
+}
+
+.form-control {
+    background: transparent;
+}
+/* // tambah barang */
+
